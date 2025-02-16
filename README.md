@@ -3,7 +3,7 @@
 # Password Generator
 
 <p>
-  <img src="https://i.imgur.com/VUu3LEF.png" width="400" alt="Preview do Gerador de Senhas">
+  <img src="https://i.imgur.com/vZZa4ce.png" width="400" alt="Preview do Gerador de Senhas">
 </p>
 
 # Modern Password Generator
