@@ -3,30 +3,30 @@
 # Password Generator
 
 <p>
-  <img src="https://i.imgur.com/VUu3LEF.png" width="400" alt="Preview do Gerador de Senhas">
+  <img src="https://i.imgur.com/VUu3LEF.png" width="400" alt="Password Generator Preview">
 </p>
 
 # Modern Password Generator
 
-Este projeto é uma aplicação web moderna e responsiva que gera senhas seguras e personalizáveis. Apresenta uma interface elegante com transições suaves e elementos interativos.
+This project is a modern and responsive web application that generates secure and customizable passwords. It features an elegant interface with smooth transitions and interactive elements.
 
-## Funcionalidades
+## Features
 
-- Design responsivo para desktop e dispositivos móveis
-- Geração de senhas personalizáveis
-- Opções para incluir letras maiúsculas, números e símbolos
-- Definição do comprimento da senha
-- Botão de copiar para área de transferência
-- Animações suaves e efeitos de hover
-- Interface com gradientes modernos
+- Responsive design for desktop and mobile devices
+- Customizable password generation
+- Options to include uppercase letters, numbers, and symbols
+- Password length configuration
+- Copy to clipboard button
+- Smooth animations and hover effects
+- Modern gradient interface
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
-- CSS3 (com animações e transições avançadas)
+- CSS3 (with advanced animations and transitions)
 - JavaScript (ES6+)
 
-## Estrutura do Projeto
+## Project Structure
 
 project/
 │
@@ -35,39 +35,39 @@ project/
 ├── pg.js
 └── README.md
 
-## Configuração e Uso
+## Setup and Usage
 
-1. Clone o repositório para sua máquina local:
+1. Clone the repository to your local machine:
    ```
    git clone https://github.com/IIBladeII/Password-Generator.git
    ```
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```
    cd Password-Generator
    ```
-3. Abra o arquivo `pg.html` em seu navegador para visualizar a aplicação.
+3. Open the `pg.html` file in your browser to view the application.
 
-## Personalização
+## Customization
 
-Você pode personalizar a aparência da aplicação modificando o arquivo `pg.css`. O esquema de cores principal utiliza gradientes e você pode ajustar as variáveis CSS no início do arquivo para adequar às suas preferências.
+You can customize the appearance of the application by modifying the `pg.css` file. The main color scheme uses gradients, and you can adjust the CSS variables at the beginning of the file to suit your preferences.
 
-## Funcionalidades JavaScript
+## JavaScript Features
 
-O arquivo `pg.js` gerencia:
-- Geração de senhas aleatórias
-- Validação das opções selecionadas
-- Funcionalidade de copiar para área de transferência
-- Animações de interface
+The `pg.js` file handles:
+- Generating random passwords
+- Validating selected options
+- Copy to clipboard functionality
+- Interface animations
 
-## Compatibilidade com Navegadores
+## Browser Compatibility
 
-Esta aplicação foi desenvolvida para funcionar em navegadores modernos, incluindo Chrome, Firefox, Safari e Edge.
+This application is designed to work in modern browsers, including Chrome, Firefox, Safari, and Edge.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Autor
+## Author
 
 [Blade](https://github.com/IIBladeII)
 
