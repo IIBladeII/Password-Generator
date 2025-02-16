@@ -3,7 +3,7 @@
 # Password Generator
 
 <p>
-  <img src="https://i.imgur.com/VUu3LEF.png" width="400" alt="Password Generator Preview">
+  <img src="https://i.imgur.com/vZZa4ce.png" width="400" alt="Preview do Gerador de Senhas">
 </p>
 
 # Modern Password Generator
@@ -39,7 +39,7 @@ project/
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/IIBladeII/Password-Generator.git
+   https://github.com/IIBladeII/Password-Generator.git
    ```
 2. Navigate to the project directory:
    ```
