@@ -29,7 +29,7 @@ This project is a modern and responsive web application that generates secure an
 ## Project Structure
 
 project/
-│
+│|
 ├── pg.html
 ├── pg.css
 ├── pg.js
