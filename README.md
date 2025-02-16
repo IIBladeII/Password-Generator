@@ -39,7 +39,7 @@ project/
 
 1. Clone o repositório para sua máquina local:
    ```
-   git clone https://github.com/IIBladeII/Password-Generator.git
+   https://github.com/IIBladeII/Password-Generator.git
    ```
 2. Navegue até o diretório do projeto:
    ```
